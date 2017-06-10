@@ -6,4 +6,4 @@ Arduino folder contains the code that is used to read analog inputs and send dat
 
 Labview folder contains the project that required to run and read data from Arduino. The data will be display on a graph.
 
-More details of this project available at 
+More details of this project available at https://iamzxlee.wordpress.com/2017/06/10/display-arduino-analog-input-using-labview/ 
